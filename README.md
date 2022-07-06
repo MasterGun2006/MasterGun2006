@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MasterGun2006
+- 👋 Hi, I’m @limb5470
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML,CSS,PYTHON,JS
+- 📫 How to reach me ? Can't
 
 <!---
 MasterGun2006/MasterGun2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
