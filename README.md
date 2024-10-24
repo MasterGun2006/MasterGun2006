@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limb5470
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning PYTHON,JS,C++
+- 🌱 I’m currently learning PYTHON,C++
 - 📫 How to reach me ? U Can't
 
 <!---
